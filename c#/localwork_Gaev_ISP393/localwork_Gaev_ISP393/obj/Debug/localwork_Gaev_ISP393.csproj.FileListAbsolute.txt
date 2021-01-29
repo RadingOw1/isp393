@@ -1,0 +1,20 @@
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.exe.config
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.exe
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.pdb
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csprojAssemblyReference.cache
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.Properties.Resources.resources
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csproj.GenerateResource.cache
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csproj.CoreCompileInputs.cache
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.exe
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.pdb
+C:\Users\study2\source\repos\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.loginform.resources
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.exe.config
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.exe
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\bin\Debug\localwork_Gaev_ISP393.pdb
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csprojAssemblyReference.cache
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.loginform.resources
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.Properties.Resources.resources
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csproj.GenerateResource.cache
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.csproj.CoreCompileInputs.cache
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.exe
+\\termsrv\Общий ресурс\_Учебный материал\Милютина И.В\ИСП-393\1_подгруппа\Гаев\c#\localwork_Gaev_ISP393\localwork_Gaev_ISP393\obj\Debug\localwork_Gaev_ISP393.pdb
